@@ -1,0 +1,2 @@
+# AI-Powered-ML-NLP-Deep-Learning-Data-Science-Assistant-App
+This project is an advanced AI-powered Machine Learning, NLP, Deep Learning, and Data Science Assistant designed to automate end-to-end data analysis workflows.  The application combines:  Natural Language Processing (NLP) Traditional Machine Learning Deep Learning Ensemble Learning Stack-Based Ensemble Analysis AI-powered analytical assistance
